@@ -23,6 +23,6 @@ Method; removes any persistent data with the specified name that has been attach
 #### Example
 
 ```javascript
-See [element.getPersistentData()](#_bookmark379).
+See [element.getPersistentData()](#!wielmic/developers-animatesdk-docs/test/Element_object/element2.md).
 
 ```

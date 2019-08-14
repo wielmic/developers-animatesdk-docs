@@ -22,4 +22,4 @@ myDoc.libraryPath = "../Files;" + myDoc.libraryPath; fl.trace(myDoc.libraryPath)
 ```
 #### See also
 
-[document.externalLibraryPath](#_bookmark194),[document.sourcePath](#_bookmark321), [fl.libraryPath](#_bookmark501)
+[document.externalLibraryPath](#!wielmic/developers-animatesdk-docs/test/Document_object/docume69.md),[document.sourcePath](#!wielmic/developers-animatesdk-docs/test/Document_object/docum36.md), [fl.libraryPath](#!wielmic/developers-animatesdk-docs/test/flash_object_(fl)/fl39.md)

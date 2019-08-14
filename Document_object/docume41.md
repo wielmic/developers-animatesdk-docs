@@ -29,4 +29,4 @@ fl.getDocumentDOM().deleteEnvelope();
 ```
 #### See also
 
-[document.crop()](#_bookmark159), [document.intersect()](#_bookmark229), [document.punch()](#_bookmark250), [document.union()](#_bookmark336), [shape.isDrawingObject](#_bookmark816)
+[document.crop()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume37.md), [document.intersect()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume97.md), [document.punch()](#!wielmic/developers-animatesdk-docs/test/Document_object/docum230.md), [document.union()](#!wielmic/developers-animatesdk-docs/test/Document_object/docu6120.md), [shape.isDrawingObject](#!wielmic/developers-animatesdk-docs/test/Shape_object/shape6.md)

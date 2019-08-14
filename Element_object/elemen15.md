@@ -21,4 +21,4 @@ var element = fl.getDocumentDOM().selection\[0\]; element.scaleY = 2;
 ```
 #### See also
 
-[element.scaleX](#_bookmark395)
+[element.scaleX](#!wielmic/developers-animatesdk-docs/test/Element_object/elemen14.md)

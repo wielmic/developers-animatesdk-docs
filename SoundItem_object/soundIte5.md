@@ -22,4 +22,4 @@ fl.trace("Mod date when imported = " + libItem.fileLastModifiedDate);
 ```
 #### See also
 
-[soundItem.sourceFileExists](#_bookmark839), [soundItem.sourceFileIsCurrent](#_bookmark840), [soundItem.sourceFilePath](#_bookmark841), [FLfile.getModificationDate()](#_bookmark568)
+[soundItem.sourceFileExists](#!wielmic/developers-animatesdk-docs/test/SoundItem_object/soundIt10.md), [soundItem.sourceFileIsCurrent](#!wielmic/developers-animatesdk-docs/test/SoundItem_object/soundIt11.md), [soundItem.sourceFilePath](#!wielmic/developers-animatesdk-docs/test/SoundItem_object/soundIt12.md), [FLfile.getModificationDate()](#!wielmic/developers-animatesdk-docs/test/FLfile_object/FLfile6.md)

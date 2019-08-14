@@ -31,4 +31,4 @@ elem = fl.xmlui.getControlItemElement("myListBox"); fl.trace("label = " + elem.l
 ```
 #### See also
 
-[fl.xmlui](#_bookmark557), [document.xmlPanel()](#_bookmark342), [xmlui.get()](#_bookmark1155), [xmlui.setControlItemElement()](#_bookmark1160), [xmlui.setControlItemElements()](#_bookmark1161)
+[fl.xmlui](#!wielmic/developers-animatesdk-docs/test/flash_object_(fl)/fl81.md), [document.xmlPanel()](#!wielmic/developers-animatesdk-docs/test/Document_object/docu6198.md), [xmlui.get()](#!wielmic/developers-animatesdk-docs/test/XMLUI_object/xmlui2.md), [xmlui.setControlItemElement()](#!wielmic/developers-animatesdk-docs/test/XMLUI_object/xmlui7.md), [xmlui.setControlItemElements()](#!wielmic/developers-animatesdk-docs/test/XMLUI_object/xmlui8.md)

@@ -31,6 +31,6 @@ fl.getDocumentDOM().enterEditMode('newWindow');
 ```
 #### See also
 
-[document.exitEditMode()](#document.exitEditMode())
+[document.exitEditMode()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume61.md))
 
 <span id="document.exitEditMode()" class="anchor"></span>

@@ -21,6 +21,6 @@ var libItem = fl.getDocumentDOM().library.items\[0\]; fl.trace("fileIsCurrent = 
 ```
 #### See also
 
-[videoItem.fileLastModifiedDate](#_bookmark1143), [videoItem.sourceFilePath](#videoItem.sourceFilePath)
+[videoItem.fileLastModifiedDate](#!wielmic/developers-animatesdk-docs/test/VideoItem_object/videoIte1.md), [videoItem.sourceFilePath](#!wielmic/developers-animatesdk-docs/test/VideoItem_object/videoIte5.md)
 
 <span id="videoItem.sourceFilePath" class="anchor"></span>

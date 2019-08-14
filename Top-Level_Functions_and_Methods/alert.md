@@ -29,4 +29,4 @@ alert("Process Complete");
 ```
 #### See also
 
-[confirm()](#_bookmark19), [prompt()](#_bookmark28)
+[confirm()](#!wielmic/developers-animatesdk-docs/test/Top-Level_Functions_and_Methods/confirm.md), [prompt()](#!wielmic/developers-animatesdk-docs/test/Top-Level_Functions_and_Methods/prompt.md)

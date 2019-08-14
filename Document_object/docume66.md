@@ -29,4 +29,4 @@ var profileXML=fl.getDocumentDOM().exportPublishProfileString(); fl.trace(profil
 ```
 #### See also
 
-[document.exportPublishProfile()](#_bookmark190), [document.importPublishProfileString()](#_bookmark227)
+[document.exportPublishProfile()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume65.md), [document.importPublishProfileString()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume95.md)

@@ -29,4 +29,4 @@ var theFrame = fl.getDocumentDOM().getTimeline().layers\[0\].frames\[0\] var eas
 ```
 #### See also
 
-[frame.hasCustomEase](#_bookmark609), [frame.setCustomEase()](#_bookmark623), [frame.useSingleEaseCurve](#_bookmark642)
+[frame.hasCustomEase](#!wielmic/developers-animatesdk-docs/test/Frame_object/frame10.md), [frame.setCustomEase()](#!wielmic/developers-animatesdk-docs/test/Frame_object/frame24.md), [frame.useSingleEaseCurve](#!wielmic/developers-animatesdk-docs/test/Frame_object/frame40.md)

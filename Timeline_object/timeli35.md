@@ -31,4 +31,4 @@ fl.getDocumentDOM().getTimeline().pasteLayers(2);
 ```
 #### See also
 
-[timeline.cutLayers()](#_bookmark1048), [timeline.copyLayers()](#_bookmark1039), [timeline.duplicateLayers()](#_bookmark1050)
+[timeline.cutLayers()](#!wielmic/developers-animatesdk-docs/test/Timeline_object/timeli15.md), [timeline.copyLayers()](#!wielmic/developers-animatesdk-docs/test/Timeline_object/timelin7.md), [timeline.duplicateLayers()](#!wielmic/developers-animatesdk-docs/test/Timeline_object/timeli17.md)

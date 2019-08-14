@@ -15,11 +15,11 @@ Property; a float value that specifies the anti-aliasing sharpness of the text. 
 #### Example
 
 ```javascript
-See [text.fontRenderingMode](#_bookmark980).
+See [text.fontRenderingMode](#!wielmic/developers-animatesdk-docs/test/Text_object/text10.md).
 
 ```
 #### See also
 
-[text.antiAliasThickness](#text.antiAliasThickness), [text.fontRenderingMode](#_bookmark980)
+[text.antiAliasThickness](#!wielmic/developers-animatesdk-docs/test/Text_object/text2.md), [text.fontRenderingMode](#!wielmic/developers-animatesdk-docs/test/Text_object/text10.md)
 
 <span id="text.antiAliasThickness" class="anchor"></span>

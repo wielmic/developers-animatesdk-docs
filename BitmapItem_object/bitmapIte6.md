@@ -22,4 +22,4 @@ fl.trace("Mod date when imported = " + libItem.lastModifiedDate);
 ```
 #### See also
 
-[bitmapItem.sourceFileExists](#_bookmark60), [bitmapItem.sourceFileIsCurrent](#_bookmark61), [bitmapItem.sourceFilePath](#_bookmark62), [FLfile.getModificationDate()](#_bookmark568)
+[bitmapItem.sourceFileExists](#!wielmic/developers-animatesdk-docs/test/BitmapItem_object/bitmapIte9.md), [bitmapItem.sourceFileIsCurrent](#!wielmic/developers-animatesdk-docs/test/BitmapItem_object/bitmapIt10.md), [bitmapItem.sourceFilePath](#!wielmic/developers-animatesdk-docs/test/BitmapItem_object/bitmapIt11.md), [FLfile.getModificationDate()](#!wielmic/developers-animatesdk-docs/test/FLfile_object/FLfile6.md)

@@ -30,4 +30,4 @@ var file1Date = FLfile.getCreationDateObj("file:///c\|/temp/file1.txt"); fl.trac
 ```
 #### See also
 
-[FLfile.getCreationDate()](#_bookmark565), [FLfile.getModificationDateObj()](#_bookmark569)
+[FLfile.getCreationDate()](#!wielmic/developers-animatesdk-docs/test/FLfile_object/FLfile4.md), [FLfile.getModificationDateObj()](#!wielmic/developers-animatesdk-docs/test/FLfile_object/FLfile7.md)

@@ -33,4 +33,4 @@ flash.getSwfPanel("Project").setFocus();
 ```
 #### See also
 
-[swfPanel.name](#_bookmark909), [fl.swfPanels](#_bookmark547)
+[swfPanel.name](#!wielmic/developers-animatesdk-docs/test/swfPanel_object/swfPane3.md), [fl.swfPanels](#!wielmic/developers-animatesdk-docs/test/flash_object_(fl)/fl74.md)

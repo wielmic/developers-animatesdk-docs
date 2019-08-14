@@ -33,4 +33,4 @@ fl.getDocumentDOM().setFilters(myFilters);
 ```
 #### See also
 
-[document.addFilter()](#_bookmark121), [document.getFilters()](#_bookmark207), [document.setFilterProperty()](#_bookmark288), [Filter object](#_bookmark425)
+[document.addFilter()](#!wielmic/developers-animatesdk-docs/test/Document_object/documen3.md), [document.getFilters()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume79.md), [document.setFilterProperty()](#!wielmic/developers-animatesdk-docs/test/Document_object/docum520.md), [Filter object](#!wielmic/developers-animatesdk-docs/test/Filter_object/filter_summary.md)

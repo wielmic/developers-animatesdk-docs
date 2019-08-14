@@ -29,4 +29,4 @@ fl.getDocumentDOM().enableFilter(1);
 ```
 #### See also
 
-[document.addFilter()](#_bookmark121), [document.changeFilterOrder()](#_bookmark149), [document.disableFilter()](#_bookmark171), [document.enableAllFilters()](#_bookmark183), [document.getFilters()](#_bookmark207), [document.removeFilter()](#_bookmark255), [Filter object](#_bookmark425)
+[document.addFilter()](#!wielmic/developers-animatesdk-docs/test/Document_object/documen3.md), [document.changeFilterOrder()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume29.md), [document.disableFilter()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume47.md), [document.enableAllFilters()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume58.md), [document.getFilters()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume79.md), [document.removeFilter()](#!wielmic/developers-animatesdk-docs/test/Document_object/docum270.md), [Filter object](#!wielmic/developers-animatesdk-docs/test/Filter_object/filter_summary.md)

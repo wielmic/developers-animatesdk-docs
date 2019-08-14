@@ -32,4 +32,4 @@ The following example replaces the characters "2006" in the Actions panel with t
 ```
 #### See also
 
-[actionsPanel.getSelectedText()](#_bookmark35), [actionsPanel.hasSelection()](#_bookmark37), [actionsPanel.replaceSelectedText()](#_bookmark38)
+[actionsPanel.getSelectedText()](#!wielmic/developers-animatesdk-docs/test/actionsPanel_object/actionsPane2.md), [actionsPanel.hasSelection()](#!wielmic/developers-animatesdk-docs/test/actionsPanel_object/actionsPane4.md), [actionsPanel.replaceSelectedText()](#!wielmic/developers-animatesdk-docs/test/actionsPanel_object/actionsPane5.md)

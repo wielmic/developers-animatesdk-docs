@@ -18,7 +18,7 @@ A HalfEdge object.
 
 #### Description
 
-Method; returns a [HalfEdge object](#_bookmark644).
+Method; returns a [HalfEdge object](#!wielmic/developers-animatesdk-docs/test/HalfEdge_object/halfEdge_summary.md).
 
 #### Example
 

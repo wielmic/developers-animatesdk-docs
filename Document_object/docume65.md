@@ -29,6 +29,6 @@ fl.getDocumentDOM().exportPublishProfile('file:///C\|/Documents and Settings/use
 ```
 #### See also
 
-[document.exportPublishProfileString()](#document.exportPublishProfileString()), [document.importPublishProfile()](#_bookmark226)
+[document.exportPublishProfileString()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume66.md)), [document.importPublishProfile()](#!wielmic/developers-animatesdk-docs/test/Document_object/docume94.md)
 
 <span id="document.exportPublishProfileString()" class="anchor"></span>
